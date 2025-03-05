@@ -14,6 +14,10 @@ This was built on a linux system for linux systems, so it probably won't work if
 
 5. The converted files will be located in a new directory `./bash_output/`
 
+### Limitations
+
+Currently, this only takes Markdown (`.md`) input files and outputs OpenDocument Text files (`.odt`).
+
 ## Planned Features
 
 - Customizable input and output formats
