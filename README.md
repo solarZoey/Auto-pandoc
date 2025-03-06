@@ -4,6 +4,9 @@ Automated [pandoc](https://pandoc.org/) bash script for recursively re-formattin
 This was built on a linux system for linux systems, so it probably won't work if you don't run a debian-based linux distro.
 
 ## How to Use
+
+0. (prerequisite) Install pandoc ` sudo apt install pandoc `
+
 1. Create a directory and fill it with files that you would like to convert to a different format.
 
 2. Move the ` auto_pandoc_driver.sh ` file into the directory you created previously.
